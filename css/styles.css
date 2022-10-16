@@ -61,14 +61,14 @@ body{
 }
 
 .pasajes{
-    background-image:url(./fotos/mexico.jpg);
+    background-image:url(../fotos/mexico.jpg);
     width: 250px;
     height: 250px;
     display: block;
     border-radius: 10px 10px 10px 10px;
 }
 .pasajes1{
-    background-image: url(./fotos/mardelplata.webp);
+    background-image: url(../fotos/mardelplata.webp);
     width:  250px;
     height: 250px;
     display: block;
@@ -76,38 +76,38 @@ body{
     
 }
 .pasajes2{
-    background-image: url(./fotos/mendoza.webp);
+    background-image: url(../fotos/mendoza.webp);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
     
 }
 .pasajes3{
-    background-image: url(./fotos/parana.webp);
+    background-image: url(../fotos/parana.webp);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
 }
 .pasajes4{
-    background-image: url(./fotos/rosario.webp);
+    background-image: url(../fotos/rosario.webp);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
 }
 .pasajes5{
-    background-image: url(./fotos/gualeyguachu.webp);
+    background-image: url(../fotos/gualeyguachu.webp);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
 }
 .pasajes6{
-    background-image: url(./fotos/puertomadryn.jpg);
+    background-image: url(../fotos/puertomadryn.jpg);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
     color: black;
 } .pasajes7{
-    background-image: url(./fotos/bariloche.webp);
+    background-image: url(../fotos/bariloche.webp);
     width: 250px;
     height: 250px;
     border-radius: 10px 10px 10px 10px ;
